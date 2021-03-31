@@ -1,0 +1,15 @@
+C:\Users\noobg\source\repos\WPFTreeView\WPFTreeView\bin\Debug\WPFTreeView.exe.config
+C:\Users\noobg\source\repos\WPFTreeView\WPFTreeView\bin\Debug\WPFTreeView.exe
+C:\Users\noobg\source\repos\WPFTreeView\WPFTreeView\bin\Debug\WPFTreeView.pdb
+C:\Users\noobg\source\repos\WPFTreeView\WPFTreeView\obj\Debug\WPFTreeView.csprojAssemblyReference.cache
+C:\Users\noobg\source\repos\WPFTreeView\WPFTreeView\obj\Debug\MainWindow.g.cs
+C:\Users\noobg\source\repos\WPFTreeView\WPFTreeView\obj\Debug\App.g.cs
+C:\Users\noobg\source\repos\WPFTreeView\WPFTreeView\obj\Debug\WPFTreeView_MarkupCompile.cache
+C:\Users\noobg\source\repos\WPFTreeView\WPFTreeView\obj\Debug\WPFTreeView_MarkupCompile.lref
+C:\Users\noobg\source\repos\WPFTreeView\WPFTreeView\obj\Debug\MainWindow.baml
+C:\Users\noobg\source\repos\WPFTreeView\WPFTreeView\obj\Debug\WPFTreeView.g.resources
+C:\Users\noobg\source\repos\WPFTreeView\WPFTreeView\obj\Debug\WPFTreeView.Properties.Resources.resources
+C:\Users\noobg\source\repos\WPFTreeView\WPFTreeView\obj\Debug\WPFTreeView.csproj.GenerateResource.cache
+C:\Users\noobg\source\repos\WPFTreeView\WPFTreeView\obj\Debug\WPFTreeView.csproj.CoreCompileInputs.cache
+C:\Users\noobg\source\repos\WPFTreeView\WPFTreeView\obj\Debug\WPFTreeView.exe
+C:\Users\noobg\source\repos\WPFTreeView\WPFTreeView\obj\Debug\WPFTreeView.pdb
